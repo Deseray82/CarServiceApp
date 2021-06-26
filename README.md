@@ -1,23 +1,11 @@
 # CarServiceApp     :car:
 [![BUILD](https://img.shields.io/badge/Build-OK-<COLOR>.svg)](https://github.com/vijayinyoutube/CarServiceApp) [![apache license](https://img.shields.io/badge/License-apache-blue.svg)](https://github.com/vijayinyoutube/CarServiceApp) [![vijaycreations](https://img.shields.io/website-up-vijaycreations-green-red/http/cv.lbesson.qc.to.svg)](https://www.youtube.com/channel/UCBC_Z7jla1GSITcqLKAtPxQ) [![GitHub release](https://img.shields.io/badge/Release-v1.0-blue.svg)](https://github.com/vijayinyoutube/CarServiceApp/releases)
-### A Flutter app that can be used for renting as well as servicing the cars
-
+###app designed with flutter with intention of on demand auto servicing
 We aim to develop the app in the perspective of providing intelligent and smart solution to the modern problem.
 The app also focuses on UI & UX as well as incorporating state of the art technology to deliver customer satisfaction product.
 
 
-Check out the video tutorial for this app
 
-> Part-1: https://youtu.be/gdx3HJR8cSA   :oncoming_automobile:    
- 
-> Part-2: https://youtu.be/_hxWjiHYpyU   :oncoming_automobile: 
-
-> Part-3: https://youtu.be/iJG6RTPhsfI   :oncoming_automobile:    
-
-> Part-4: https://youtu.be/azI1fkrE9ss   :oncoming_automobile: 
-
-
-Visit my Channel for more : :point_right: [vijaycreations](https://www.youtube.com/channel/UCBC_Z7jla1GSITcqLKAtPxQ)
 
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/vijaycreations)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vijay-creations-b60a391a6/) 
@@ -32,7 +20,7 @@ Visit my Channel for more : :point_right: [vijaycreations](https://www.youtube.c
  
  ## License
 ```
-   Copyright 2020 Vijay R
+   Copyright 2021 Cupids Solutions
 
    Licensed under the Apache License, Version 2.0 (the "License");
    you may not use this file except in compliance with the License.
